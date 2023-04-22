@@ -1,2 +1,3 @@
 - Hi, I’m Windsor. A Backend Developer
+- Work at E.SUN Bank
 - Contact with me : c3fm38@gmail.com
