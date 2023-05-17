@@ -1,5 +1,3 @@
-[English version](https://github.com/windsorliu/windsorliu/blob/main/README.md)
-
 **聯絡我：** c3fm38@gmail.com
 
 Experience
