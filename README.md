@@ -1,6 +1,6 @@
-[English version](https://github.com/windsorliu/windsorliu/blob/main/README.md)
+[中文版本](https://github.com/windsorliu/windsorliu/blob/main/README.zh.md)
 
-**聯絡我：** c3fm38@gmail.com
+**Contact with me : ** c3fm38@gmail.com
 
 Experience
 ---
@@ -23,9 +23,8 @@ Programming
 
 Language
 ---
-* 中文：母語
-* 英文：中等程度
+Fluent in Chinese, intermediate level in English
 
 Education
 ---
-* 臺灣科技大學   電機系 (2016 - 2020)
+* NTUST  Dept. EE(2016 - 2020)
