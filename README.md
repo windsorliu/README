@@ -1,3 +1,6 @@
+[English Version](https://github.com/windsorliu/windsorliu/blob/main/README.en.md)
+<br>
+
 Experience
 ---
 **玉山銀行  後端工程師**
