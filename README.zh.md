@@ -1,4 +1,4 @@
-[English Version](https://github.com/windsorliu/windsorliu/blob/main/README.en.md)
+[English Version](https://github.com/windsorliu/windsorliu/blob/main/README.md)
 <br>
 
 Experience
