@@ -1,4 +1,4 @@
-[中文版本](https://github.com/windsorliu/windsorliu/blob/main/README.md)
+[中文版本](https://github.com/windsorliu/windsorliu/blob/main/README.zh.md)
 <br>
 
 Experience
