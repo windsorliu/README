@@ -9,7 +9,7 @@ Experience
 * Maintained and operated the **Trade Based Anti-Money Laundering System**.
 * Communicated with vendors and independently launched the system.
 
-**NTUST - Part-time Assistant**
+**NTUST - Research Assistant**
 * Assisted with projects in the NSTC (National Science and Technology Council) department.
 * Participated in experiment planning and execution.
 * Evaluated budgets and processed fund reimbursements.
